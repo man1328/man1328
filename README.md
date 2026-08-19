@@ -1,4 +1,4 @@
-[Download PDF](https://github.com/man1328/man1328/releases/download/v1.0/RESUME.pdf)
+<h2>[Download PDF](https://github.com/man1328/man1328/releases/download/v1.0/RESUME.pdf)</h2>
 
 # Hi, I'm Manny 👋
 
