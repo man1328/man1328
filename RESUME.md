@@ -1,5 +1,3 @@
-[Download PDF](https://github.com/man1328/man1328/releases/download/v1.0/RESUME.pdf)
-
 # Resume — Manuel "Manny" Aguilar
 
 **Email:** maguilar1310@gmail.com | **GitHub:** [github.com/man1328](https://github.com/man1328) | **Location:** Elizabeth, NJ (open to remote / VA / FL)
