@@ -1,4 +1,4 @@
-• Resume: Download PDF
+[Download PDF](https://github.com/man1328/man1328/releases/download/v1.0/RESUME.pdf)
 
 # Hi, I'm Manny 👋
 
