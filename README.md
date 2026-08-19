@@ -1,3 +1,5 @@
+• Resume: Download PDF
+
 # Hi, I'm Manny 👋
 
 **DevOps-leaning platform engineer building self-hosted AI infrastructure, automation frameworks, and tools that solve real problems I've had.**
