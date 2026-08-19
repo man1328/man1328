@@ -80,7 +80,7 @@ Currently operating a full local AI stack (Ollama, RAG, agent gateway, coding ag
 
 - **Email:** maguilar1310@gmail.com
 - **GitHub:** [github.com/man1328](https://github.com/man1328)
-- **Resume:** [Download PDF](https://github.com/man1328/man1328/releases/tag/resume) (pinned release)
+- **Resume:** [Download PDF]([https://github.com/man1328/man1328/releases/tag/resume](https://github.com/man1328/man1328/releases/latest/download/RESUME.pdf)) (pinned release)
 - **This page:** [github.com/man1328](https://github.com/man1328)
 
 ---
