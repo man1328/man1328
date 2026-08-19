@@ -1,4 +1,5 @@
 Resume: [Download PDF](https://github.com/man1328/man1328/releases/latest/download/RESUME.pdf)
+Resume: [View .md](https://github.com/man1328/man1328/blob/master/RESUME.md)
 
 # Hi, I'm Manny 👋
 
