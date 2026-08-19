@@ -1,5 +1,3 @@
-[Download PDF](https://github.com/man1328/man1328/releases/download/v1.0/RESUME.pdf)
-
 # Hi, I'm Manny 👋
 
 **DevOps-leaning platform engineer building self-hosted AI infrastructure, automation frameworks, and tools that solve real problems I've had.**
